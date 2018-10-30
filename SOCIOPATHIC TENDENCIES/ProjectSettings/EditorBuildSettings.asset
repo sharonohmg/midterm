@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/theGame.unity
+    guid: 4f370a362ea914789a325a6ceb104cff
+  - enabled: 1
+    path: Assets/Scenes/Scenario--Testscore.unity
+    guid: a53fb9a3350a4412bbce076cfc314dc0
+  - enabled: 1
+    path: Assets/Scenes/Scenario--Ants.unity
+    guid: d67d0e22af7504b44b1136058a69f805
+  - enabled: 1
+    path: Assets/Scenes/Scenario--NoisyBaby.unity
+    guid: 9e9ee092c973d45d6a46bca9ad8c5c90
+  - enabled: 1
+    path: Assets/Scenes/Scenario--DroppingGoods.unity
+    guid: cc8e89c7fb4e940b1b4b68df55536e93
+  - enabled: 1
+    path: Assets/Scenes/Scenario--Funeral.unity
+    guid: a0a6234cad2ee4979bd97a784c986625
+  - enabled: 1
+    path: Assets/Scenes/Scenes2/Scenario--Testscore2.unity
+    guid: e0efa50cca9c9466bb8ed1a4ede68c44
+  - enabled: 1
+    path: Assets/Scenes/Scenes2/Scenario--Ants2.unity
+    guid: 98f01ff11f55b4542b9c4fd173009027
+  - enabled: 1
+    path: Assets/Scenes/Scenes2/Scenario--NoisyBaby2.unity
+    guid: c2b95a3f3c2a94417a9bb72aa7e9a712
+  - enabled: 1
+    path: Assets/Scenes/Scenes2/Scenario--DroppingGoods2.unity
+    guid: 0e6fedb8c8ee045599e0109e375b1f75
+  - enabled: 1
+    path: Assets/Scenes/Scenes2/Scenario--Funeral2.unity
+    guid: bf82b1fc8aaa841eda8b6bdc3d522eb5
+  - enabled: 1
+    path: Assets/Scenes/Scene3/Testscore3.unity
+    guid: f2deec6af3b4c40858ba825ecea21bd9
+  - enabled: 1
+    path: Assets/Scenes/Scene3/Ants3.unity
+    guid: e43c7224f0d8a42c5ac5db6c5d22750b
+  - enabled: 1
+    path: Assets/Scenes/Scene3/NoisyBaby3.unity
+    guid: 0461593a657174dbc871eecfd1379341
+  - enabled: 1
+    path: Assets/Scenes/Scene3/DroppingGoods3.unity
+    guid: 07af8e8bbfdda4e60a7c273ae8bd868b
+  - enabled: 1
+    path: Assets/Scenes/Scene3/Funeral3.unity
+    guid: e93999552e8ee4386aefbe1e6728979f
+  - enabled: 1
+    path: Assets/Scenes/Scene4/Test4.unity
+    guid: 54ba5f2eabeee472694f65124d85e3e3
+  - enabled: 1
+    path: Assets/Scenes/Scene4/Ants4.unity
+    guid: d162396a63e5a4abeb79140e2cd5bcda
+  - enabled: 1
+    path: Assets/Scenes/Scene4/Baby4.unity
+    guid: 12c55477818f943dbafdb2118f134fe6
+  - enabled: 1
+    path: Assets/Scenes/Scene4/Goods4.unity
+    guid: 7ae6b66b41e9a48d9a25444fa501d049
+  - enabled: 1
+    path: Assets/Scenes/Scene4/Funeral4.unity
+    guid: 74419f764e7de40abbdd042619d1e3b2
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 1425fc78379694484bc7757820219e99
+  m_configObjects: {}
